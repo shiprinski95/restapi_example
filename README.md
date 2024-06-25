@@ -15,6 +15,21 @@ Am avut posibilitatea să utilizez diferite clauze în cadrul interogărilor SQL
 
 Deci mai întâi am creat baza de date (cu denumirea sugestivă autosalon_api) prin intermediul interfaței web **PhpMyAdmin**, și am făcut niște setări prealabile manuale. După aceasta am fost nevoit să execut interogări SQL de tip INSERT INTO VALUES pentru umplerea automată a celor 2 tabele create anterior cu date aleatorii formale, ca să nu pierd mult timp cu introducerea manuală:
 
+![screen1](screenshots/Screenshot_1.jpg)
+![screen2](screenshots/Screenshot_2.jpg)
+![screen3](screenshots/Screenshot_3.jpg)
+![screen4](screenshots/Screenshot_4.jpg)
+
 # Testarea funcționalității (Postman)
 În continuare sunt prezentate screenshot-uri cu testările interogărilor REST în programul special **Postman**, cu care am avut ocazia să lucrez un pic și în cadrul internship-ului în cadrul companiei Unifun.
 
+![screen5](screenshots/Screenshot_5.jpg)
+![screen6](screenshots/Screenshot_6.jpg)
+![screen7](screenshots/Screenshot_7.jpg)
+![screen8](screenshots/Screenshot_8.jpg)
+![screen9](screenshots/Screenshot_9.jpg)
+![screen10](screenshots/Screenshot_10.jpg)
+![screen11](screenshots/Screenshot_11.jpg)
+![screen12](screenshots/Screenshot_12.jpg)
+![screen13](screenshots/Screenshot_13.jpg)
+![screen14](screenshots/Screenshot_14.jpg)
